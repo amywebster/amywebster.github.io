@@ -1,0 +1,296 @@
+#u8537,#u8539,#u8538
+{
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#pamphletu8433,#u8453
+{
+	position: relative;
+}
+
+#u8455
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u8455:hover
+{
+	border-color: #999999;
+}
+
+#u8434
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F8F8F8;
+	background-color: rgba(248, 248, 248, 0.9);
+	-pie-background: rgba(248, 248, 248, 0.9);
+}
+
+#u8536,#u8435
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#menuu8462
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 0px 10px 0px 0px ;
+	-webkit-border-radius: 0px 10px 0px 0px ;
+	-khtml-border-radius: 0px 10px 0px 0px ;
+	border-radius: 0px 10px 0px 0px ;
+	position: relative;
+}
+
+#u8506
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u8506:active
+{
+	background-color: transparent;
+}
+
+#u8507-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 48px;
+	position: relative;
+}
+
+#u8506:hover #u8507-4 p,#u8506:hover #u8507-4 h1,#u8506:active #u8507-4 p,#u8506:active #u8507-4 h1
+{
+	color: #ADADAD;
+	visibility: inherit;
+}
+
+#u8478
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u8506.MuseMenuActive,#u8478:active
+{
+	background-color: transparent;
+}
+
+#u8479-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 48px;
+	position: relative;
+}
+
+#u8478:hover #u8479-4 p,#u8478:hover #u8479-4 h1,#u8478:active #u8479-4 p,#u8478:active #u8479-4 h1
+{
+	color: #ADADAD;
+	visibility: inherit;
+}
+
+#u8511
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u8478.MuseMenuActive,#u8511:active
+{
+	background-color: transparent;
+}
+
+#u8513-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 48px;
+	position: relative;
+}
+
+#u8511:hover #u8513-4 p,#u8511:hover #u8513-4 h1,#u8511:active #u8513-4 p,#u8511:active #u8513-4 h1
+{
+	color: #ADADAD;
+	visibility: inherit;
+}
+
+#u8518
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u8511.MuseMenuActive,#u8518:active
+{
+	background-color: transparent;
+}
+
+#u8520-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 48px;
+	position: relative;
+}
+
+#u8518:hover #u8520-4 p,#u8518:hover #u8520-4 h1,#u8518:active #u8520-4 p,#u8518:active #u8520-4 h1
+{
+	color: #ADADAD;
+	visibility: inherit;
+}
+
+#u8503,#u8477,#u8510,#u8517,#u8470,#u8473
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u8518.MuseMenuActive,#u8473:active
+{
+	background-color: transparent;
+}
+
+#u8476-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 48px;
+	position: relative;
+}
+
+#u8473:hover #u8476-4 p,#u8473:hover #u8476-4 h1,#u8473:active #u8476-4 p,#u8473:active #u8476-4 h1
+{
+	color: #ADADAD;
+	visibility: inherit;
+}
+
+#u8506.MuseMenuActive #u8507-4 p,#u8506.MuseMenuActive #u8507-4 h1,#u8478.MuseMenuActive #u8479-4 p,#u8478.MuseMenuActive #u8479-4 h1,#u8511.MuseMenuActive #u8513-4 p,#u8511.MuseMenuActive #u8513-4 h1,#u8518.MuseMenuActive #u8520-4 p,#u8518.MuseMenuActive #u8520-4 h1,#u8473.MuseMenuActive #u8476-4 p,#u8473.MuseMenuActive #u8476-4 h1
+{
+	color: #ADADAD;
+	visibility: inherit;
+	font-size: 40px;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u8540-5
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u8346,#u8347
+{
+	border-color: #000000;
+	background-color: #353535;
+}
+
+#u8548-6
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.81;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=81)";
+	filter: alpha(opacity=81);
+	line-height: 24px;
+	font-size: 16px;
+	color: #BF9647;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8473.MuseMenuActive,#u8548-6:hover
+{
+	background-color: transparent;
+}
+
+#u8548-6:active
+{
+	background-color: transparent;
+}
+
+#u8548-2
+{
+	font-size: 17px;
+	font-weight: 700;
+	line-height: 26px;
+}
+
+#u15185-5
+{
+	background-color: transparent;
+	opacity: 0.35;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: alpha(opacity=35);
+	line-height: 24px;
+	font-size: 16px;
+	color: #F8F8F8;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8548-4,#u15185-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u8548,#u8548-3,#u15185
+{
+	line-height: 24px;
+}
+
+#u15185-2
+{
+	font-size: 12px;
+	line-height: 18px;
+}
+
+#u15199
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u15199_clip
+{
+	overflow: hidden;
+}
+

@@ -1,0 +1,224 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1415006192432">
+  <folder name="css">
+    <file name="site_global.css" crc="394295815"/>
+    <file name="index.css" crc="3986644756" ref="index"/>
+    <file name="iefonts_index.css" crc="340205174" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="director-s-letter---mason-hoffman.pdf" crc="375576696" mt="1412558452000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:index"/>
+    <file name="museutils.js" crc="3777594392" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>index:tablet>about:tablet>services:tablet>portfolio:index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:index"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:index"/>
+    <file name="webpro.js" crc="474087315" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>about:tablet>portfolio:tablet>contact:index"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>about:tablet>portfolio:index"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>about:tablet>portfolio:index"/>
+    <file name="touchswipe.js" crc="100683906" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>about:tablet>portfolio:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:index"/>
+    <file name="form_check.php" crc="306825315" ref="phone>contact:tablet>contact:index"/>
+    <file name="form_throttle.php" crc="4293816517" ref="phone>contact:tablet>contact:index"/>
+    <file name="form_process.php" crc="109188895" ref="phone>contact:tablet>contact:index"/>
+    <file name="form-u8549.php" crc="418625731" ref="phone>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="tablet>index:index"/>
+    <file name="form-u10057.php" crc="4167837682" ref="tablet>contact"/>
+    <file name="museredirect.js" crc="17485671" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
+    <file name="form-u7187.php" crc="40129508" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u8540-5.png" crc="4061396578" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact"/>
+    <file name="pasted svg 391x390.svg" crc="194436628" ref="phone>index:index"/>
+    <file name="pasted svg 391x390_poster_u15191.png" crc="117526254" ref="phone>index"/>
+    <file name="p-film-beach.gif" crc="84309026" ref="phone>index:phone>portfolio:index"/>
+    <file name="pasted svg 391x390_poster_.png" crc="117526254" ref="phone>index"/>
+    <file name="contacct-symbols.gif" crc="164567993" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index"/>
+    <file name="what-i-do-interior-circle.gif" crc="274256114" ref="phone>about:phone>services:index"/>
+    <file name="what-i-do-film-circle.gif" crc="3944801728" ref="phone>about:phone>services:index"/>
+    <file name="about-me-glasses.gif" crc="4254783627" ref="phone>about"/>
+    <file name="what-i-do-photo-circle.gif" crc="55577891" ref="phone>services:index"/>
+    <file name="what-i-do-other-circle.gif" crc="533818134" ref="phone>services:index"/>
+    <file name="pd-greed-cast-ensemble.gif" crc="529326314" ref="phone>portfolio:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>portfolio:tablet>about:tablet>portfolio:index"/>
+    <file name="pd-greed-pool-night.gif" crc="177026325" ref="phone>portfolio:index"/>
+    <file name="p-night-eiffel.gif" crc="4121532961" ref="phone>portfolio:index"/>
+    <file name="pd-bad-robot-robot.gif" crc="471724659" ref="phone>portfolio:index"/>
+    <file name="pd-bad-robot-sketches.gif" crc="414457394" ref="phone>portfolio:index"/>
+    <file name="pd-bad-robot-house-still.gif" crc="126245830" ref="phone>portfolio:index"/>
+    <file name="i-level-4-floor-plan.gif" crc="4018749437" ref="phone>portfolio:index"/>
+    <file name="i-level-4-axo.gif" crc="364102031" ref="phone>portfolio:index"/>
+    <file name="i-level-4-room-render.gif" crc="58431388" ref="phone>portfolio:index"/>
+    <file name="p-film-lock.gif" crc="3802449496" ref="phone>portfolio:index"/>
+    <file name="pd-art-studio-sketch.gif" crc="4048133623" ref="phone>portfolio:index"/>
+    <file name="pd-art-studio-set-up.gif" crc="316185385" ref="phone>portfolio:index"/>
+    <file name="p-jas-jacket.gif" crc="93818804" ref="phone>portfolio:index"/>
+    <file name="p-jas-collarbone.gif" crc="201252850" ref="phone>portfolio:index"/>
+    <file name="ok.png" crc="4233660116" ref="phone>portfolio:tablet>about:index"/>
+    <file name="oksag.png" crc="4133735186" ref="phone>portfolio:tablet>about:tablet>portfolio:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>portfolio:tablet>about:tablet>portfolio:index"/>
+    <file name="u8581-17.png" crc="455057849" ref="phone>contact"/>
+    <file name="u8581-17-r.png" crc="3940087797" ref="phone>contact"/>
+    <file name="u8581-17-m.png" crc="3940087797" ref="phone>contact"/>
+    <file name="u8581-17-fs.png" crc="3940087797" ref="phone>contact"/>
+    <file name="img001bubz.jpg" crc="449759023" ref="tablet>index"/>
+    <file name="logo-u9451-3-fr.png" crc="469697701" ref="tablet>index"/>
+    <file name="facebooknormal.png" crc="4060983119" ref="tablet>index"/>
+    <file name="facebookhover.png" crc="143670340" ref="tablet>index"/>
+    <file name="twitternormal.png" crc="3814182698" ref="tablet>index"/>
+    <file name="twitterhover.png" crc="280725486" ref="tablet>index"/>
+    <file name="googlenormal.png" crc="3761856859" ref="tablet>index"/>
+    <file name="googlehover.png" crc="4048064641" ref="tablet>index"/>
+    <file name="innormal.png" crc="523964301" ref="tablet>index"/>
+    <file name="inhover.png" crc="68493606" ref="tablet>index"/>
+    <file name="u9744.png" crc="193001512" ref="tablet>about"/>
+    <file name="u9746.png" crc="193001512" ref="tablet>about"/>
+    <file name="u9748.png" crc="526952203" ref="tablet>about"/>
+    <file name="u9749.png" crc="526952203" ref="tablet>about"/>
+    <file name="img5.jpg" crc="247454984" ref="tablet>about"/>
+    <file name="img2.jpg" crc="3983305070" ref="tablet>about"/>
+    <file name="img12.jpg" crc="3790057342" ref="tablet>about"/>
+    <file name="img3480x282.jpg" crc="3775479597" ref="tablet>about"/>
+    <file name="img7480x320.jpg" crc="3781181417" ref="tablet>about"/>
+    <file name="img8480x320.jpg" crc="17305818" ref="tablet>about"/>
+    <file name="img5-crop-u9674.jpg" crc="308882821" ref="tablet>about"/>
+    <file name="img2-crop-u12551.jpg" crc="209330856" ref="tablet>about"/>
+    <file name="img12-crop-u12560.jpg" crc="115201034" ref="tablet>about"/>
+    <file name="img3480x282-crop-u12569.jpg" crc="361720097" ref="tablet>about"/>
+    <file name="img7480x320-crop-u12578.jpg" crc="488270296" ref="tablet>about"/>
+    <file name="img8480x320-crop-u12587.jpg" crc="3769728129" ref="tablet>about"/>
+    <file name="close.png" crc="157524918" ref="tablet>about:tablet>portfolio:index"/>
+    <file name="icon1normal.png" crc="95470667" ref="tablet>services"/>
+    <file name="icon2normal.png" crc="4126873835" ref="tablet>services"/>
+    <file name="icon4.png" crc="534097112" ref="tablet>services"/>
+    <file name="icon3normal.png" crc="3910481618" ref="tablet>services"/>
+    <file name="12-crop-u12773.jpg" crc="4125353208" ref="tablet>portfolio"/>
+    <file name="22-crop-u12775.jpg" crc="426269369" ref="tablet>portfolio"/>
+    <file name="32-crop-u12777.jpg" crc="355199839" ref="tablet>portfolio"/>
+    <file name="42-crop-u12793.jpg" crc="3808364715" ref="tablet>portfolio"/>
+    <file name="52-crop-u12779.jpg" crc="3835508074" ref="tablet>portfolio"/>
+    <file name="62-crop-u12785.jpg" crc="509510494" ref="tablet>portfolio"/>
+    <file name="72-crop-u12771.jpg" crc="254410793" ref="tablet>portfolio"/>
+    <file name="82-crop-u12791.jpg" crc="226978265" ref="tablet>portfolio"/>
+    <file name="9-crop-u12781.jpg" crc="390798876" ref="tablet>portfolio"/>
+    <file name="10-crop-u12787.jpg" crc="4034866203" ref="tablet>portfolio"/>
+    <file name="tes-port-folio-500-w.gif" crc="4222712837" ref="tablet>portfolio"/>
+    <file name="12-crop-u12783.jpg" crc="4125353208" ref="tablet>portfolio"/>
+    <file name="12.jpg" crc="61137692" ref="tablet>portfolio"/>
+    <file name="22.jpg" crc="4141779730" ref="tablet>portfolio"/>
+    <file name="32.jpg" crc="4179303411" ref="tablet>portfolio"/>
+    <file name="42.jpg" crc="3984774418" ref="tablet>portfolio"/>
+    <file name="52.jpg" crc="4027597183" ref="tablet>portfolio"/>
+    <file name="62.jpg" crc="3869161327" ref="tablet>portfolio"/>
+    <file name="72.jpg" crc="4241073659" ref="tablet>portfolio"/>
+    <file name="82.jpg" crc="8428938" ref="tablet>portfolio"/>
+    <file name="9.jpg" crc="458721970" ref="tablet>portfolio"/>
+    <file name="10.jpg" crc="4089449418" ref="tablet>portfolio"/>
+    <file name="122.jpg" crc="61137692" ref="tablet>portfolio"/>
+    <file name="oksag2.png" crc="4133735186" ref="tablet>portfolio:index"/>
+    <file name="ok2.png" crc="4233660116" ref="tablet>portfolio:index"/>
+    <file name="u10054.png" crc="3886417676" ref="tablet>contact"/>
+    <file name="u10055.png" crc="81591732" ref="tablet>contact"/>
+    <file name="u10088-17.png" crc="4004608447" ref="tablet>contact"/>
+    <file name="u10088-17-r.png" crc="232507083" ref="tablet>contact"/>
+    <file name="u10088-17-m.png" crc="232507083" ref="tablet>contact"/>
+    <file name="u10088-17-fs.png" crc="232507083" ref="tablet>contact"/>
+    <file name="u10092.png" crc="3886417676" ref="tablet>contact"/>
+    <file name="u10091.png" crc="81591732" ref="tablet>contact"/>
+    <file name="cover-lock.gif" crc="488432196" ref="index"/>
+    <file name="cover-board.gif" crc="457161121" ref="index"/>
+    <file name="cover-bubblediagram.gif" crc="4180807660" ref="index"/>
+    <file name="cover-jacket.gif" crc="472034767" ref="index"/>
+    <file name="u13184-6.png" crc="248064134" ref="index"/>
+    <file name="u6898.png" crc="4244215028" ref="index"/>
+    <file name="u6893.png" crc="197615178" ref="index"/>
+    <file name="recent-greed.gif" crc="34492725" ref="index"/>
+    <file name="recent-level-4.gif" crc="462821698" ref="index"/>
+    <file name="recent-hopscotch.gif" crc="84964589" ref="index"/>
+    <file name="recent-beach-photo.gif" crc="367951949" ref="index"/>
+    <file name="oksol.png" crc="4123693946" ref="index"/>
+    <file name="oksolhover.png" crc="3947895860" ref="index"/>
+    <file name="oksag3.png" crc="284058535" ref="index"/>
+    <file name="oksaghover.png" crc="429218691" ref="index"/>
+    <file name="u6899.png" crc="197615178" ref="index"/>
+    <file name="latest-photo-lock.gif" crc="3934268478" ref="index"/>
+    <file name="latest-beach-photo.gif" crc="4125590147" ref="index"/>
+    <file name="latest-greed.gif" crc="446999699" ref="index"/>
+    <file name="latest-greed-pool-scene.gif" crc="96935528" ref="index"/>
+    <file name="latest-level-4-axo.gif" crc="4095547367" ref="index"/>
+    <file name="latest-level-four-render.gif" crc="3976437208" ref="index"/>
+    <file name="i-level-4-bubbles.gif" crc="3797371060" ref="index"/>
+    <file name="ilevel4board.gif" crc="368632750" ref="index"/>
+    <file name="i-level4-board2.gif" crc="130589836" ref="index"/>
+    <file name="imnd-board.gif" crc="4097587079" ref="index"/>
+    <file name="i-travel-plans.gif" crc="99614810" ref="index"/>
+    <file name="i-travel-plan-white-bg.gif" crc="3843587642" ref="index"/>
+    <file name="i-travel-plan-fronton.gif" crc="4033613048" ref="index"/>
+    <file name="ok22.png" crc="4233660116" ref="index"/>
+    <file name="pd-bad-robot-making-robot.gif" crc="4109303657" ref="index"/>
+    <file name="pd-greed-mindmap.gif" crc="4262259914" ref="index"/>
+    <file name="pd-greed-table-setting.gif" crc="103478103" ref="index"/>
+    <file name="pd-art-studio-sitting-corner.gif" crc="347126506" ref="index"/>
+    <file name="pd-art-studio-guy-painting.gif" crc="3979120787" ref="index"/>
+    <file name="p-jas-bridge.gif" crc="3799136097" ref="index"/>
+    <file name="p-jas-orange.gif" crc="380176962" ref="index"/>
+    <file name="p-film-glasses.gif" crc="4289004974" ref="index"/>
+    <file name="p-film-swing.gif" crc="170021618" ref="index"/>
+    <file name="p-night-bridge.gif" crc="4164061381" ref="index"/>
+    <file name="p-night-theatre.gif" crc="350384516" ref="index"/>
+    <file name="p-night-water.gif" crc="148905634" ref="index"/>
+    <file name="o-food-exhib.gif" crc="4203072793" ref="index"/>
+    <file name="o-food-buildings.gif" crc="461222762" ref="index"/>
+    <file name="o-food-living.gif" crc="4105028286" ref="index"/>
+    <file name="o-food-green.gif" crc="33205351" ref="index"/>
+    <file name="pd-bad-robot-model.gif" crc="61942865" ref="index"/>
+    <file name="u14549.png" crc="152183268" ref="index"/>
+    <file name="u7186.png" crc="152183268" ref="index"/>
+    <file name="u7206-17.png" crc="4050744791" ref="index"/>
+    <file name="u7206-17-r.png" crc="6234009" ref="index"/>
+    <file name="u7206-17-m.png" crc="6234009" ref="index"/>
+    <file name="u7206-17-fs.png" crc="6234009" ref="index"/>
+    <file name="u15202-6.png" crc="3983662973" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="38951406" ref="tablet>contact:tablet>portfolio:tablet>about:tablet>index:tablet>services"/>
+      <file name="contact.css" crc="3972450120" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="5205404" ref="tablet>contact"/>
+      <file name="portfolio.css" crc="134363513" ref="tablet>portfolio"/>
+      <file name="about.css" crc="4110047970" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="4207407126" ref="tablet>about"/>
+      <file name="index.css" crc="107209344" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4277582372" ref="tablet>index"/>
+      <file name="services.css" crc="4006076709" ref="tablet>services"/>
+      <file name="iefonts_services.css" crc="4189632197" ref="tablet>services"/>
+    </folder>
+    <file name="index.html" crc="36043873" mt="1414712561321" redirect="true"/>
+    <file name="about.html" crc="385289896" mt="1414712561325" redirect="true"/>
+    <file name="services.html" crc="81866892" mt="1414712561328" redirect="true"/>
+    <file name="portfolio.html" crc="67642533" mt="1414712561331" redirect="true"/>
+    <file name="contact.html" crc="3849062766" mt="1415006186162" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3823258563" ref="phone>portfolio:phone>index:phone>about:phone>services:phone>contact"/>
+      <file name="portfolio.css" crc="44384161" ref="phone>portfolio"/>
+      <file name="iefonts_portfolio.css" crc="4221225394" ref="phone>portfolio"/>
+      <file name="index.css" crc="4161416635" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="34098544" ref="phone>index"/>
+      <file name="about.css" crc="416905058" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="34098544" ref="phone>about"/>
+      <file name="services.css" crc="438627051" ref="phone>services"/>
+      <file name="iefonts_services.css" crc="510813110" ref="phone>services"/>
+      <file name="contact.css" crc="4152503780" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="4119651794" ref="phone>contact"/>
+    </folder>
+    <file name="index.html" crc="267504532" mt="1414712561346" redirect="true"/>
+    <file name="about.html" crc="4184060994" mt="1414712561350" redirect="true"/>
+    <file name="services.html" crc="417249038" mt="1414717397031" redirect="true"/>
+    <file name="portfolio.html" crc="278012325" mt="1414712561356" redirect="true"/>
+    <file name="contact.html" crc="183948310" mt="1415006181990" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4276348092" mt="1415006190716" redirect="true"/>
+</manifest>
