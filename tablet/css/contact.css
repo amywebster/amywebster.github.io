@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000EC;
-	background-color: #C6C748;
+	color: #00001B;
+	background-color: #3170A6;
 }
 
 @-ms-viewport
@@ -445,9 +445,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	color: #6B6B6B;
 	line-height: 14px;
+	text-align: left;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -462,8 +462,8 @@
 	border-color: #3C3C3C;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #DEDEDE;
+	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -536,9 +536,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	color: #6B6B6B;
 	line-height: 14px;
+	text-align: left;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -561,8 +561,8 @@
 	border-color: #3C3C3C;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #DEDEDE;
+	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -655,8 +655,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	font-size: 12px;
-	color: #FF0000;
 	line-height: 14px;
+	color: #FF0000;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -684,8 +684,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	font-size: 12px;
-	color: #00FF00;
 	line-height: 12px;
+	color: #00FF00;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -767,9 +767,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	color: #6B6B6B;
 	line-height: 14px;
+	text-align: left;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -784,8 +784,8 @@
 	border-color: #3C3C3C;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #DEDEDE;
+	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -889,9 +889,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	color: #6B6B6B;
 	line-height: 14px;
+	text-align: left;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -921,8 +921,8 @@
 	border-color: #3C3C3C;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #DEDEDE;
+	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: italic;

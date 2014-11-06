@@ -226,9 +226,9 @@
 	opacity: 0.81;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=81)";
 	filter: alpha(opacity=81);
-	line-height: 24px;
-	font-size: 16px;
 	color: #BF9647;
+	font-size: 16px;
+	line-height: 24px;
 	text-align: center;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -258,9 +258,9 @@
 	opacity: 0.35;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
 	filter: alpha(opacity=35);
-	line-height: 24px;
-	font-size: 16px;
 	color: #F8F8F8;
+	font-size: 16px;
+	line-height: 24px;
 	text-align: center;
 	font-family: lato, sans-serif;
 	font-weight: 400;

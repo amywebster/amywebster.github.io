@@ -1,8 +1,8 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1415006192432">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1415238525577">
   <folder name="css">
     <file name="site_global.css" crc="394295815"/>
-    <file name="index.css" crc="3986644756" ref="index"/>
-    <file name="iefonts_index.css" crc="340205174" ref="index"/>
+    <file name="index.css" crc="315569437" ref="index"/>
+    <file name="iefonts_index.css" crc="30273229" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="director-s-letter---mason-hoffman.pdf" crc="375576696" mt="1412558452000"/>
@@ -22,7 +22,7 @@
     <file name="form_throttle.php" crc="4293816517" ref="phone>contact:tablet>contact:index"/>
     <file name="form_process.php" crc="109188895" ref="phone>contact:tablet>contact:index"/>
     <file name="form-u8549.php" crc="418625731" ref="phone>contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="tablet>index:index:tablet>contact"/>
     <file name="form-u10057.php" crc="4167837682" ref="tablet>contact"/>
     <file name="museredirect.js" crc="17485671" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
@@ -33,7 +33,7 @@
     <file name="pasted svg 391x390.svg" crc="194436628" ref="phone>index:index"/>
     <file name="pasted svg 391x390_poster_u15191.png" crc="117526254" ref="phone>index"/>
     <file name="p-film-beach.gif" crc="84309026" ref="phone>index:phone>portfolio:index"/>
-    <file name="pasted svg 391x390_poster_.png" crc="117526254" ref="phone>index"/>
+    <file name="pasted svg 391x390_poster_.png" crc="291237441" ref="phone>index:index"/>
     <file name="contacct-symbols.gif" crc="164567993" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index"/>
     <file name="what-i-do-interior-circle.gif" crc="274256114" ref="phone>about:phone>services:index"/>
     <file name="what-i-do-film-circle.gif" crc="3944801728" ref="phone>about:phone>services:index"/>
@@ -62,16 +62,16 @@
     <file name="u8581-17-r.png" crc="3940087797" ref="phone>contact"/>
     <file name="u8581-17-m.png" crc="3940087797" ref="phone>contact"/>
     <file name="u8581-17-fs.png" crc="3940087797" ref="phone>contact"/>
-    <file name="img001bubz.jpg" crc="449759023" ref="tablet>index"/>
+    <file name="img001bubz.jpg" crc="449759023" ref="tablet>index:tablet>contact"/>
     <file name="logo-u9451-3-fr.png" crc="469697701" ref="tablet>index"/>
-    <file name="facebooknormal.png" crc="4060983119" ref="tablet>index"/>
-    <file name="facebookhover.png" crc="143670340" ref="tablet>index"/>
-    <file name="twitternormal.png" crc="3814182698" ref="tablet>index"/>
-    <file name="twitterhover.png" crc="280725486" ref="tablet>index"/>
-    <file name="googlenormal.png" crc="3761856859" ref="tablet>index"/>
-    <file name="googlehover.png" crc="4048064641" ref="tablet>index"/>
-    <file name="innormal.png" crc="523964301" ref="tablet>index"/>
-    <file name="inhover.png" crc="68493606" ref="tablet>index"/>
+    <file name="facebooknormal.png" crc="4060983119" ref="tablet>index:tablet>contact"/>
+    <file name="facebookhover.png" crc="143670340" ref="tablet>index:tablet>contact"/>
+    <file name="twitternormal.png" crc="3814182698" ref="tablet>index:tablet>contact"/>
+    <file name="twitterhover.png" crc="280725486" ref="tablet>index:tablet>contact"/>
+    <file name="googlenormal.png" crc="3761856859" ref="tablet>index:tablet>contact"/>
+    <file name="googlehover.png" crc="4048064641" ref="tablet>index:tablet>contact"/>
+    <file name="innormal.png" crc="523964301" ref="tablet>index:tablet>contact"/>
+    <file name="inhover.png" crc="68493606" ref="tablet>index:tablet>contact"/>
     <file name="u9744.png" crc="193001512" ref="tablet>about"/>
     <file name="u9746.png" crc="193001512" ref="tablet>about"/>
     <file name="u9748.png" crc="526952203" ref="tablet>about"/>
@@ -153,9 +153,7 @@
     <file name="i-level4-board2.gif" crc="130589836" ref="index"/>
     <file name="imnd-board.gif" crc="4097587079" ref="index"/>
     <file name="i-travel-plans.gif" crc="99614810" ref="index"/>
-    <file name="i-travel-plan-white-bg.gif" crc="3843587642" ref="index"/>
     <file name="i-travel-plan-fronton.gif" crc="4033613048" ref="index"/>
-    <file name="ok22.png" crc="4233660116" ref="index"/>
     <file name="pd-bad-robot-making-robot.gif" crc="4109303657" ref="index"/>
     <file name="pd-greed-mindmap.gif" crc="4262259914" ref="index"/>
     <file name="pd-greed-table-setting.gif" crc="103478103" ref="index"/>
@@ -180,11 +178,22 @@
     <file name="u7206-17-m.png" crc="6234009" ref="index"/>
     <file name="u7206-17-fs.png" crc="6234009" ref="index"/>
     <file name="u15202-6.png" crc="3983662973" ref="index"/>
+    <file name="imndboard-bigspace.gif" crc="3907382474" ref="index"/>
+    <file name="ibowlsfourspread.gif" crc="4016307553" ref="index"/>
+    <file name="ibowlssingleimg.gif" crc="343497730" ref="index"/>
+    <file name="ok3.png" crc="4233660116" ref="index"/>
+    <file name="icharliechair-cover.gif" crc="26302554" ref="index"/>
+    <file name="i-charlie-chair-spread.gif" crc="236322120" ref="index"/>
+    <file name="omodellaneway.gif" crc="3987073510" ref="index"/>
+    <file name="ocrayoncircle.gif" crc="4027765053" ref="index"/>
+    <file name="ocrayonsq.gif" crc="102554591" ref="index"/>
+    <file name="oboyfromozbackdrop.gif" crc="4078916061" ref="index"/>
+    <file name="otheareflats.gif" crc="86083420" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="38951406" ref="tablet>contact:tablet>portfolio:tablet>about:tablet>index:tablet>services"/>
-      <file name="contact.css" crc="3972450120" ref="tablet>contact"/>
+      <file name="master_a-master.css" crc="4006525184" ref="tablet>contact:tablet>portfolio:tablet>about:tablet>index:tablet>services"/>
+      <file name="contact.css" crc="456224934" ref="tablet>contact"/>
       <file name="iefonts_contact.css" crc="5205404" ref="tablet>contact"/>
       <file name="portfolio.css" crc="134363513" ref="tablet>portfolio"/>
       <file name="about.css" crc="4110047970" ref="tablet>about"/>
@@ -198,11 +207,11 @@
     <file name="about.html" crc="385289896" mt="1414712561325" redirect="true"/>
     <file name="services.html" crc="81866892" mt="1414712561328" redirect="true"/>
     <file name="portfolio.html" crc="67642533" mt="1414712561331" redirect="true"/>
-    <file name="contact.html" crc="3849062766" mt="1415006186162" redirect="true"/>
+    <file name="contact.html" crc="4042444733" mt="1415238518864" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3823258563" ref="phone>portfolio:phone>index:phone>about:phone>services:phone>contact"/>
+      <file name="master_a-master.css" crc="22754191" ref="phone>portfolio:phone>index:phone>about:phone>services:phone>contact"/>
       <file name="portfolio.css" crc="44384161" ref="phone>portfolio"/>
       <file name="iefonts_portfolio.css" crc="4221225394" ref="phone>portfolio"/>
       <file name="index.css" crc="4161416635" ref="phone>index"/>
@@ -211,14 +220,14 @@
       <file name="iefonts_about.css" crc="34098544" ref="phone>about"/>
       <file name="services.css" crc="438627051" ref="phone>services"/>
       <file name="iefonts_services.css" crc="510813110" ref="phone>services"/>
-      <file name="contact.css" crc="4152503780" ref="phone>contact"/>
+      <file name="contact.css" crc="4052314309" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="4119651794" ref="phone>contact"/>
     </folder>
     <file name="index.html" crc="267504532" mt="1414712561346" redirect="true"/>
     <file name="about.html" crc="4184060994" mt="1414712561350" redirect="true"/>
     <file name="services.html" crc="417249038" mt="1414717397031" redirect="true"/>
     <file name="portfolio.html" crc="278012325" mt="1414712561356" redirect="true"/>
-    <file name="contact.html" crc="183948310" mt="1415006181990" redirect="true"/>
+    <file name="contact.html" crc="3999439054" mt="1415238517863" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4276348092" mt="1415006190716" redirect="true"/>
+  <file name="index.html" crc="368055228" mt="1415238524102" redirect="true"/>
 </manifest>
